@@ -514,7 +514,7 @@ zB3yrr+vYBT0uDWmxwPjiJs=
 ```
 <img src="https://raw.githubusercontent.com/MickySolo/HTC-HYDRA/master/960c3530a.gif">
 
-# support us (can you donate something)
+# support us (can you donate us to proceed)
 
 <a href="https://spectrocoin.com/en/integration/buttons/49591-LEVCwvjS7p.html" style="display:inline-block;padding: 12px 15px; font-weight: 800; font-size: 18px; text-transform: uppercase; text-align: center; background-color: rgb(39, 88, 119); border: 0px none rgb(51, 51, 51); border-radius: 0px; color: #fff;">
 <span>Donate</span>
