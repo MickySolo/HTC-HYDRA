@@ -1,5 +1,5 @@
 
-				        <h1>H Y D R A</h1>
+				               H Y D R A
 
                               (c) 2001-2019 by Micky Solo
 
