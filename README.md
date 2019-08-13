@@ -9,6 +9,7 @@
                           or for illegal purposes.
 
 
+<img src="https://raw.githubusercontent.com/MickySolo/HTC-HYDRA/master/PicsArt_08-13-02.39.03.jpg">
 
 INTRODUCTION
 ------------
@@ -526,4 +527,4 @@ zB3yrr+vYBT0uDWmxwPjiJs=
 =ytEf
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-<img src="https://raw.githubusercontent.com/MickySolo/HTC-HYDRA/master/PicsArt_08-13-02.39.03.jpg">
+
