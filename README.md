@@ -1,12 +1,12 @@
 
-				  H Y D R A
+				      H Y D R A
 
-                      (c) 2001-2019 by Micky Solo
+                              (c) 2001-2019 by Micky Solo
 
-  		    Licensed under AGPLv3 (see LICENSE file)
+  		         Licensed under AGPLv3 (see LICENSE file)
 
-           Please do not use in military or secret service organizations,
-                          or for illegal purposes.
+                 Please do not use in military or secret service organizations,
+                 or for illegal purposes.
 
 
 <img src="https://raw.githubusercontent.com/MickySolo/HTC-HYDRA/master/PicsArt_08-13-02.39.03.jpg">
