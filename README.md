@@ -1,10 +1,7 @@
 
 				  H Y D R A
 
-                      (c) 2001-2019 by van Hauser / THC
-             <vh@thc.org> https://github.com/vanhauser-thc/thc-hydra
-       many modules were written by David (dot) Maciejak @ gmail (dot) com
-                 BFG code by Jan Dlabal <dlabaljan@gmail.com>
+                      (c) 2001-2019 by Micky Solo
 
   		    Licensed under AGPLv3 (see LICENSE file)
 
