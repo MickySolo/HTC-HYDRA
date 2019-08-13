@@ -1,5 +1,5 @@
 
-				      H Y D R A
+				         H Y D R A
 
                               (c) 2001-2019 by Micky Solo
 
@@ -41,21 +41,6 @@ Currently this tool supports the following protocols:
 However the module engine for new services is very easy so it won't take a
 long time until even more services are supported.
 Your help in writing, enhancing or fixing modules is highly appreciated!! :-)
-
-
-
-WHERE TO GET
-------------
-You can always find the newest release/production version of hydra at its
-project page at https://github.com/vanhauser-thc/thc-hydra/releases
-If you are interested in the current development state, the public development
-repository is at Github:
-  svn co https://github.com/vanhauser-thc/thc-hydra
- or
-  git clone https://github.com/vanhauser-thc/thc-hydra
-Use the development version at your own risk. It contains new features and
-new bugs. Things might not work!
-
 
 
 HOW TO COMPILE
@@ -527,4 +512,4 @@ zB3yrr+vYBT0uDWmxwPjiJs=
 =ytEf
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
+<img src="https://raw.githubusercontent.com/MickySolo/HTC-HYDRA/master/960c3530a.gif">
